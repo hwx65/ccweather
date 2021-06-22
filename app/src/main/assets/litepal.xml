@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="cc_weacher" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.cc.weather.db.City" />
+        <mapping class="com.cc.weather.db.Province" />
+        <mapping class="com.cc.weather.db.County" />
+    </list>
+
+</litepal>
